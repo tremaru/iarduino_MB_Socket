@@ -1,0 +1,39 @@
+#	####################################################
+#	СИНТАКСИЧЕСКАЯ РАСКРАСКА ДЛЯ БИБИЛИОТЕКИ:
+#	iarduino_MB_Socket
+#	####################################################
+#	ТИПЫ ДАННЫХ:							   (KEYWORD1)
+	iarduino_MB_Socket	KEYWORD1
+#	####################################################
+#	МЕТОДЫ И ФУНКЦИИ:						   (KEYWORD2)
+	begin	KEYWORD2
+	reset	KEYWORD2
+	changeID	KEYWORD2
+	setSpeedMB	KEYWORD2
+	ackSpeedMB	KEYWORD2
+	setTypeMB	KEYWORD2
+	ackTypeMB	KEYWORD2
+	writeFlash	KEYWORD2
+	readFlash	KEYWORD2
+	getID	KEYWORD2
+	getVersion	KEYWORD2
+	getPWR	KEYWORD2
+	setIDLED	KEYWORD2
+	getErr	KEYWORD2
+	setState	KEYWORD2
+	getState	KEYWORD2
+	digitalRead	KEYWORD2
+	connectRead	KEYWORD2
+	enableWDT	KEYWORD2
+	disableWDT	KEYWORD2
+	resetWDT	KEYWORD2
+	getStateWDT	KEYWORD2
+#	####################################################
+#	КОНСТАНТЫ:								   (LITERAL1)
+	DEF_MODEL_SOCKET	LITERAL1
+	SOCKET_SENSOR_ALL	LITERAL1
+	SOCKET_SENSOR_MIN	LITERAL1
+	SOCKET_SENSOR_MID	LITERAL1
+	SOCKET_SENSOR_MAX	LITERAL1
+
+	
