@@ -1,5 +1,5 @@
 //	Библиотека для работы с розеткой iarduino Modbus: https://iarduino.ru/shop/Expansion-payments/socket-Modbus-RS485.html
-//  Версия: 1.0.2
+//  Версия: 1.0.3
 //  Последнюю версию библиотеки Вы можете скачать по ссылке: https://iarduino.ru/file/592.html
 //  Подробное описание функции бибилиотеки доступно по ссылке: https://wiki.iarduino.ru/page/socket-Modbus-RS485/
 //  Библиотека является собственностью интернет магазина iarduino.ru и может свободно использоваться и распространяться!
